@@ -1,3 +1,4 @@
+// You need take this important informations to .env folder for your safety .
 module.exports = {
   apiKey: "AIzaSyC5UVeN6YnCaEc6BHcOeQkWIvYzRmCBLqI",
   authDomain: "socialape-7d0b6.firebaseapp.com",
@@ -7,3 +8,4 @@ module.exports = {
   messagingSenderId: "150679398182",
   appId: "1:150679398182:web:f3a6ed6d21fa1de7"
 };
+
